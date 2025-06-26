@@ -40,4 +40,4 @@ This program should have a while loop and the while loop condition should test i
 
 while curr_value < 100:
 
-![Double It](challenge_01_Double_It.png)
+![Double It](challenge_09_Double_it.png)
