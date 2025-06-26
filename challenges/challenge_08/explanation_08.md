@@ -29,4 +29,4 @@ for i in range(10):
 
 Will print out the values 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. The values printed in liftoff are 10 minus the number of times the for loop has completed.
 
-![Random Numbers](challenge_08_Liftoff.png)
+![Liftoff](challenge_08_Liftoff.png)
