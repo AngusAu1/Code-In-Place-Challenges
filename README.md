@@ -4,6 +4,7 @@ Welcome to my repository for the challenges from Stanford University's online co
 
 ## Structure 
 
+```
 Code-In-Place-Challenges/
 ├── README.md
 ├── challenges/
@@ -14,7 +15,7 @@ Code-In-Place-Challenges/
 │ │ ├── solution.py
 │ │ └── explanation.md
 │ └── ... (Others challenges)
-
+```
 
 ## Description
 
