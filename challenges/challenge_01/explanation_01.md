@@ -1,4 +1,4 @@
-Assignment 01 - Mad Libs
+# Assignment 01 - Mad Libs
 
 Edit the constant for WIZARD
 to have the value "Karel"
