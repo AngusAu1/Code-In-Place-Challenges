@@ -2,6 +2,9 @@
 
 Welcome to my repository for the challenges from Stanford University's online course **"Code in Place"**. This repository serves as a personal archive and reference for the exercises completed during the course, and is also intended to help others who are interested in reviewing or learning from these challenges.
 
+**- Gain new insights by reviewing the past -**
+Code in Place help me to gain new insights by reviewing the coding techniques from beginning. It is good to everyone when you are struggling in coding.
+
 ## Structure 
 
 ```
