@@ -1,4 +1,4 @@
-# Assignment 14 - Pyramid
+# Assignment 15 - Pyramid
 Write a program that draws a pyramid consisting of bricks arranged in horizontal rows, so that the number of bricks in each row decreases by one as you move up the pyramid. A sample run is shown below.
 
 
